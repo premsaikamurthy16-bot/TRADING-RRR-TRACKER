@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Account Trading R:R Tracker",
+  "description": "Professional multi-account trading risk:reward tracker, automated P&L calculations, monthly goals, and risk discipline dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
